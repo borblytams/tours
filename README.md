@@ -1,2 +1,1 @@
-# tours
-Simple tours app
+## React Projects Starter APP
